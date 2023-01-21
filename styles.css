@@ -163,3 +163,10 @@ footer {
 #about-section-two h2 {
   margin-top: 0;
 }
+
+.profile {
+  border-radius: 50%;
+  max-width: 50%;
+  max-height: 25%;
+  padding-right: 0px;
+}
